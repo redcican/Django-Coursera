@@ -3,9 +3,4 @@ __pycache__
 myvenv
 db.sqlite3
 .DS_Store
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-*.code-workspace
+**/.vscode/
